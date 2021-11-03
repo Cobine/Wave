@@ -21,6 +21,7 @@ from collections import OrderedDict
 import collections, re, copy
 import pandas as pd
 import os.path
+import numpy
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
